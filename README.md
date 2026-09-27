@@ -1,2 +1,2 @@
 # Atychiphobia
-game
+this is script of Atychiphobia ()
